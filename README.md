@@ -1,7 +1,8 @@
 ### Hi there 👋
+
 <div>
   <a href="https://github.com/Thaayy7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaayy7&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaayy7&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
@@ -19,6 +20,5 @@
   <a href="https://www.instagram.com/thaayyy7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thaynara-araujo-moreira-a2741b264/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/Thaayy7/Thaayy7/blob/output/github-contribution-grid-snake.svg)
 
 </div>
