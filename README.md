@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
   <a href="https://github.com/Thaayy7">
-  <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaayy7&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
